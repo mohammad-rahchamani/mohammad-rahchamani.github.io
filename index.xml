@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mohammad Rahchamani&#39;s resume</title>
-    <link>https://rahchamani.me/</link>
+    <link>https://mohammad-rahchamani.github.io/</link>
     <description>Recent content on Mohammad Rahchamani&#39;s resume</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://rahchamani.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mohammad-rahchamani.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
